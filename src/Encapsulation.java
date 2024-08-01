@@ -8,12 +8,12 @@
 public class Encapsulation {
     public static void main(String[] args){
         Student S= new Student();
-        S.setName("Hridoy Hasan");
+        S.setName("Jodu Modu");
         S.setID(1001);
         S.setCgpa(3.85f);
         System.out.println(S.getName());
-        System.out.println(S.getName());
-        System.out.println(S.getName());
+        System.out.println(S.getID());
+        System.out.println(S.getCgpa());
     }
 }
 
