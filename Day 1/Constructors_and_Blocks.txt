@@ -1,0 +1,37 @@
+#1.Default Constructor: A constructor which does not have any parameter
+is called default constructor.
+
+#2.Parameterized Constructor: A constructor through which we can pass
+one or more parameters is called parameterized constructor.
+
+#3.Copy Constructor: Whenever we pass object reference to the constructor
+to the constructor then it is called a copy constructor.
+
+#Copy Constructor copies one object's contents to another.
+
+4.Private Constructor: Private and default can't be created together.
+
+# Static Block: It is such kind of block in java which gets executed
+at the time of loading the .class file into JVM memory.Execute before
+instance block.
+
+A.java -> javac -> A.class ---------->  |--------------------|
+                                        |     Class          |
+                                        |     loader         |
+                                        |--------------------|
+                                        |   Byte code        |
+                                        |    Verifier        |
+                                        |                    |
+                                        |____________________|
+                                        |   Execution        |
+                                        |   engine           |
+                                        |                    |
+                                        |____________________|
+                                                JVM
+Instance Block: Instance block is similar to method which has no
+name, it can be written inside a class only but not inside a method.
+### Can't access without creating object. Because it is part of an object.
+Note: i) It always executed before the constructor.
+     ii) We can use only variables inside the instance block.
+    iii) We write time the consuming code inside  instance block
+         like - JDBC Connectivity.

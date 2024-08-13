@@ -1,6 +1,0 @@
-Default Constructor: A constructor which does not have any parameter
-is called default constructor.
-Parameterized Constructor: A constructor through which we can pass
-one or more parameters is called parameterized constructor.
-Copy Constructor: Whenever we pass object reference to the constructor
-to the constructor then it is called a copy constructor.
