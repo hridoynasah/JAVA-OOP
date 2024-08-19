@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f629c05-e961-4026-b9ba-21cba97a93c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Day 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Addition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Full_Calculation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance_and_Polymorphism.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Students.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SuperKeyWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SuperKeyWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/This_KeyWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/This_KeyWord.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2kbZMbROnJ4ZYFVgPF3xNzzVWBa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Inheritance1.executor": "Run",
+    "Application.Inheritance2.executor": "Run",
+    "Application.Inheritance3.executor": "Run",
+    "Application.Polymorphism2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f629c05-e961-4026-b9ba-21cba97a93c4" name="Changes" comment="" />
+      <created>1723554190221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723554190221</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

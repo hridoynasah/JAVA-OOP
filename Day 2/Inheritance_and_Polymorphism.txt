@@ -1,0 +1,52 @@
+Inheritance : When we construct a new class from existing class
+in such way that the new class, access all the features and
+properties of existing class called inheritance.
+
+## Private member can't be access from Sub class.
+## Protected members can be accessible
+
+Note: i) In, java extends keyword is used to perform inheritance.
+     ii) It provides code reusability.
+    iii) We can't access private members of class through inheritance.
+     iv) A sub-class contains all the features of super class so,
+         we should create  the object of sub-class
+      v) Method overriding only possible through inheritance.
+
+
+Types of inheritance:
+i) Single / Simple inheritance ( Super -> Sub)
+ii) Multi-level inheritance : Super class must be only one.
+    Super -> Sub1 -> Sub2 -> Sub3 -> Sub4.......
+## Java don't support Multiple Inheritance through classes but support through interface
+iii) Hierarchical inheritance.
+        Super
+         /\
+        /  \
+    Sub1   Sub2
+
+### Super keyword: Super keyword refers to the object of super class,
+it is used when we want to call the super class variable , method
+and constructor through subclass object.
+Note : i) When ever the super class and sub class variable and method
+        name both are same than it can be used only.
+       ii) To avoid the confusion super class and sub classes
+           variables and methods that have same name we should
+           use Super keyword.
+
+
+# this keyword: this keyword refers to the current object inside a method or constructor.
+# Calls the default constructor of same class.
+
+####### Polymorphism : (Many form) Ploy -> Many & Morphism -> Form
+Polymorphism : It is a greek word which means "Same object having different behaviour."
+i) Compile time polymorphism.(Static)
+ii) Runtime polymorphism.(Dynamic)
+
+Compile time : A polymorphism which is executes at the time of compilation is called "Compile time", "Early binding", "Static" polymorphism.
+Example: "Method overloading": When ever a class contain more than one method with same name and different types of parameters called overloading.
+Return type don't matter.
+
+Run time: A polymorphism which exists at the time of execution of the program is called runtime polymorphism.
+JVM : JVM is a runtime environment.
+Method overriding: Whenever we are writing method in super and sub classes in such a way that method name and parameter must be same called method
+overriding.
