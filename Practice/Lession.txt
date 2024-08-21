@@ -1,0 +1,7 @@
+# Code1 = Class and Object.
+# Code2 = Default Constructor.
+# Code3 = Parameterized Constructor.
+# Code4 = Copy Constructor.
+# Code5 = Private Constructor.
+# Code6 = Constructor Overloading.
+# Code7 = Single Inheritance.

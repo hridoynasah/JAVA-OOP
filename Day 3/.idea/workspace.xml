@@ -4,15 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f629c05-e961-4026-b9ba-21cba97a93c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Day 3/.idea/Day 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 3/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 3/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 3/Encapsulation_Abstraction.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 3/Main.java" afterDir="false" />
+    <list default="true" id="cbd1c3ca-f48e-4d58-b444-e0ae915bb31e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Day 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation_Abstraction.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Practice/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Practice/.idea/Practice.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Practice/.idea/misc.xml" afterDir="false" />
@@ -29,8 +32,8 @@
       <change afterPath="$PROJECT_DIR$/../Practice/Multilevel_Inheritance.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Practice/Static_Block.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Practice/Static_Instance_Block.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance_and_Polymorphism.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance_and_Polymorphism.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 2/Inheritance_and_Polymorphism.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 2/Inheritance_and_Polymorphism.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Encapsulation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,10 +51,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
-  <component name="ProjectId" id="2kbZMbROnJ4ZYFVgPF3xNzzVWBa" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2kxVCIU56n7jnIW2FsByJn0ZmNy" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -62,34 +65,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.CodeA.executor": "Run",
+    "Application.CodeB.executor": "Run",
     "Application.Encapsulation.executor": "Run",
-    "Application.Inheritance1.executor": "Run",
-    "Application.Inheritance2.executor": "Run",
-    "Application.Inheritance3.executor": "Run",
-    "Application.Polymorphism2.executor": "Run",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Encapsulation" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Encapsulation" />
-      <module name="Day 2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3f629c05-e961-4026-b9ba-21cba97a93c4" name="Changes" comment="" />
-      <created>1723554190221</created>
+      <changelist id="cbd1c3ca-f48e-4d58-b444-e0ae915bb31e" name="Changes" comment="" />
+      <created>1724225085709</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1723554190221</updated>
+      <updated>1724225085709</updated>
     </task>
     <servers />
   </component>

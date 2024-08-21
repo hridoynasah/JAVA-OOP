@@ -1,0 +1,29 @@
+# Encapsulation: Encapsulation is a mechanism through which
+we can wrap data and members and method members of class in
+a single unit is called Encapsulation. allows data hiding.
+Note: i) Class variable must be private.
+      ii) Declare the class method as a public.
+Example: Class is the best example of encapsulation.
+
+# Abstraction : Abstraction is a process of hiding the implementation
+details from the users, only the highlighted set of services provided
+to the users.
+Advantage: i) Security.
+           ii) Enhancement.
+Implement: i) Abstract Class. ii) Interface.
+
+# Abstract class: A class which contains the abstract keyword in its
+declaration is called abstract class.
+Note:
+i) Can't create abstract class. but can create reference variable
+for abstract class.(Reference would be of super class & Object would be of sub-class)
+ii) It may or may not contain abstract method.
+iii) It can have abstract or non-abstract methods.
+iv) To use an abstract class, you have to inherit form sub-class.
+v) If a class contain partial implementation then we should declare
+a class as abstract class. (Cause we can't create object of an abstract class.)
+
+
+CodeA = "Abstract Class."
+CodeB = "Abstract Class and Method."
+

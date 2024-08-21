@@ -42,11 +42,17 @@ Polymorphism : It is a greek word which means "Same object having different beha
 i) Compile time polymorphism.(Static)
 ii) Runtime polymorphism.(Dynamic)
 
-Compile time : A polymorphism which is executes at the time of compilation is called "Compile time", "Early binding", "Static" polymorphism.
-Example: "Method overloading": When ever a class contain more than one method with same name and different types of parameters called overloading.
+Compile time : A polymorphism which is executes at the time of compilation is called
+"Compile time", "Early binding", "Static" polymorphism.
+Example: "Method overloading": When ever a class contain more than one method with same
+name and different types of parameters called overloading.
 Return type don't matter.
 
-Run time: A polymorphism which exists at the time of execution of the program is called runtime polymorphism.
+Run time: A polymorphism which exists at the time of execution of the program is called
+runtime polymorphism.
+
 JVM : JVM is a runtime environment.
-Method overriding: Whenever we are writing method in super and sub classes in such a way that method name and parameter must be same called method
+
+Method overriding: Whenever we are writing method in super and sub classes in such a way
+that method name and parameter must be same called method
 overriding.
