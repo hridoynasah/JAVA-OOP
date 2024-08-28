@@ -5,36 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbd1c3ca-f48e-4d58-b444-e0ae915bb31e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Day 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation_Abstraction.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/.idea/Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/Code2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/Code3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/Code4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/Code5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/Code6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/Code7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/Final.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/Lession.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/Multilevel_Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/Static_Block.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/Static_Instance_Block.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 2/Inheritance_and_Polymorphism.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 2/Inheritance_and_Polymorphism.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Students_info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice 1/.idea/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice 2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice 2/.idea/Practice 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice 2/Code1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice 2/Code2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice 2/Code3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstract_Method_and_Interface.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract_Method_and_Interface.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation_Abstraction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Encapsulation_Abstraction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/.idea/Practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/Code2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/Code3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/Code4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/Code5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/Code6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/Code7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/Final.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/Lession.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/Multilevel_Inheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/Static_Block.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/Static_Instance_Block.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +66,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2kxVCIU56n7jnIW2FsByJn0ZmNy" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -67,8 +82,16 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.CodeA.executor": "Run",
     "Application.CodeB.executor": "Run",
+    "Application.CodeC.executor": "Run",
+    "Application.CodeD.executor": "Run",
+    "Application.CodeE.executor": "Run",
+    "Application.CodeF.executor": "Run",
+    "Application.CodeG.executor": "Run",
+    "Application.CodeH.executor": "Run",
+    "Application.CodeI.executor": "Run",
     "Application.Encapsulation.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Practice.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -88,5 +111,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

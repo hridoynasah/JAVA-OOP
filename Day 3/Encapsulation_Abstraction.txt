@@ -2,7 +2,7 @@
 we can wrap data and members and method members of class in
 a single unit is called Encapsulation. allows data hiding.
 Note: i) Class variable must be private.
-      ii) Declare the class method as a public.
+      ii) Declare the class method as public.
 Example: Class is the best example of encapsulation.
 
 # Abstraction : Abstraction is a process of hiding the implementation
@@ -26,4 +26,5 @@ a class as abstract class. (Cause we can't create object of an abstract class.)
 
 CodeA = "Abstract Class."
 CodeB = "Abstract Class and Method."
+codeC = "Abstract Class"
 

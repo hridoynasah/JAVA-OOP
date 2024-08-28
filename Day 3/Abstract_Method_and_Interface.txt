@@ -1,0 +1,26 @@
+Abstract Method: A method which contain abstract modifier at the
+time of declaration is called abstract method.
+Note :
+i) It can only be used in abstract class
+ii) It doesn't contain any body "{}" and always ends with ";" semicolon.
+iii) Abstract Method must be overridden in subclass otherwise it will
+otherwise it will also become a abstract class.
+iv) Whenever the action is common but implementation are different
+then we should use abstract method.
+
+# Interface : Interface is just like a class, which contains
+only abstract method.
+
+To achieve interface java provides a keyword call implements.
+Note :
+i) Interface methods are public & abstract.
+ii) Interface variable are by default public static final.
+iii) Interface method must be overridden inside the implement.
+iv) Interface nothing but deals between client and developer.
+
+# CodeF : Interface
+# CodeG : Interface
+# CodeH : Why interface variables are public static and final in Java?
+# CodeI : Why interface methods are abstract?
+If I create two method in interface, I have to implement both.
+Otherwise it become abstract class.
