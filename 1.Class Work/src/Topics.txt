@@ -3,3 +3,9 @@
 3. Inheritance
 4. Abstract Class
 
+Code : 
+
+1. Class_var_method.java -> Class variable and method.
+2. Instance_var_method.java -> Instance variable and method.
+3. Class_and_Instance.java -> Class variable and method Vs Instance variable and method.
+
